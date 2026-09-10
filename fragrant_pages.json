@@ -1,0 +1,729 @@
+{
+  "aboutMeContent": "<h2 style=\"text-align: center;\"><strong>Fragrant</strong> <em>is an adjective that means having a</em> \u00f0\u009d\u0090\u00a7\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u009c\u00f0\u009d\u0090\u009e, \u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00b0\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00ad, \u00f0\u009d\u0090\u00a8\u00f0\u009d\u0090\u00ab \u00f0\u009d\u0090\u00a9\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00a7\u00f0\u009d\u0090\u00a0 \u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00a6\u00f0\u009d\u0090\u009e\u00f0\u009d\u0090\u00a5\u00f0\u009d\u0090\u00a5</h2><p></p>",
+  "galleryPosts": [
+    {
+      "id": "fdd1c18f-3270-4d7f-bf92-d239b3d4d19c",
+      "title": "Yae Miko Poster",
+      "mediaUrl": "https://r2.frozi.lol/490055a0-0df6-4a77-bc9b-9aeaf76220e0.png",
+      "description": "Made by Fragrant | Genshin Impact"
+    },
+    {
+      "id": "8eeed07d-9512-41a1-9859-57bdc7b2657b",
+      "title": "Lynae Poster",
+      "mediaUrl": "https://r2.frozi.lol/e9909c8d-8602-4c08-beb5-a255fcd90e3f.png",
+      "description": "Made by Fragrant | Wuthering Waves"
+    },
+    {
+      "id": "27e9a3d8-3c3c-4b7e-9edb-b1d4e47cca16",
+      "title": "Ellen Joe Poster",
+      "mediaUrl": "https://r2.frozi.lol/1a8fa876-4a6e-4a08-b7af-620c4f47dacd.png",
+      "description": "Made by Fragrant | Zenless Zone Zero"
+    },
+    {
+      "id": "77fbab66-ad43-45bc-b918-92f4c1788048",
+      "title": "Raiden Shogun Poster",
+      "mediaUrl": "https://r2.frozi.lol/7fe56713-d371-472a-a239-a2406b86ff8e.png",
+      "description": "Made by Fragrant | Genshin Impact"
+    },
+    {
+      "id": "a360f8a2-d716-4687-8b6f-b2e007638255",
+      "title": "Chisa Poster",
+      "mediaUrl": "https://r2.frozi.lol/e2ef050e-b5bf-4af9-ac08-2f2af3dbc4e8.webp",
+      "description": "Made by Fragrant | Wuthering Waves"
+    },
+    {
+      "id": "a97018db-d3b4-47bb-ad27-9b57138b6280",
+      "title": "Endministrator Poster",
+      "mediaUrl": "https://r2.frozi.lol/0d13d474-c003-47d3-b544-c6c5855cb4f7.png",
+      "description": "Made by Fragrant | Endfield"
+    },
+    {
+      "id": "6f2d3c91-6579-4f03-a5d4-57d49162a7ed",
+      "title": "Porsche Highway Render",
+      "mediaUrl": "https://r2.frozi.lol/245b6272-9bff-4c21-a64a-975ddebf5dbf.png",
+      "description": "Made by Fragrant | Unreal Engine 5"
+    },
+    {
+      "id": "0cc5a144-e80a-42e8-9ba7-01f6ddb411ad",
+      "title": "Polestar Rocky Render",
+      "mediaUrl": "https://r2.frozi.lol/c82b6f1c-1a6e-4e54-a7bf-1fdfe2f88089.png",
+      "description": "Made by Fragrant | Unreal Engine 5"
+    },
+    {
+      "id": "18033b5b-67e3-432e-b874-25ce076117ea",
+      "title": "Polestar Dark Render",
+      "mediaUrl": "https://r2.frozi.lol/b102106d-9222-4e39-bc2c-62d52695606f.png",
+      "description": "Made by Fragrant | Unreal Engine 5"
+    },
+    {
+      "id": "ef98a162-c53f-4cc1-8d20-e9bceb88e91e",
+      "title": "Polestar White Room Render",
+      "mediaUrl": "https://r2.frozi.lol/9f45d822-858d-4dd2-b085-7d19af8c5d01.png",
+      "description": "Made by Fragrant | Unreal Engine 5"
+    }
+  ],
+  "initialComments": [
+    {
+      "id": "dd4fb1e2-afea-4654-9c35-3d2151838f7e",
+      "profileId": 4403,
+      "authorId": 3266,
+      "text": "Still Mogs all of guns.lol pages to this day",
+      "commentedAt": "2026-08-23T02:30:09.663974+00:00",
+      "likes": [
+        4403
+      ],
+      "isPinned": true,
+      "parentId": null,
+      "replies": [
+        {
+          "id": "444ad711-2b53-475d-a8b6-d11f636a3a18",
+          "profileId": 4403,
+          "authorId": 4403,
+          "text": "hahaha",
+          "commentedAt": "2026-08-23T23:38:09.267555+00:00",
+          "likes": [],
+          "isPinned": false,
+          "parentId": "dd4fb1e2-afea-4654-9c35-3d2151838f7e",
+          "profile": {
+            "id": 4403,
+            "username": "fragrant",
+            "displayName": "Fragrant",
+            "badges": [
+              {
+                "name": "premium",
+                "enabled": false
+              }
+            ],
+            "assets": {
+              "pfp": "https://r2.frozi.lol/c364f2a1-421e-4c19-aadd-f3d405b2e2dd.gif",
+              "cursor": "https://r2.frozi.lol/48e66ba4-1cfe-40fc-a381-cfac329a17fb.gif",
+              "favicon": "https://r2.frozi.lol/00078491-783d-4e27-a343-48ee8a197af9.png",
+              "metadataBg": "https://r2.frozi.lol/c6a9190b-66e3-4ca9-9865-55d17ef137e5.jpg",
+              "backgrounds": [
+                {
+                  "id": "fd8426b7-feb8-4205-a5b3-36f5f95c4bb2",
+                  "url": "https://r2.frozi.lol/96459767-c820-48d8-b321-c2a44279b711.mp4",
+                  "name": "Intro_Profile_Fragrant_V5.5_NEW_SONG.mp4",
+                  "enabled": true
+                },
+                {
+                  "id": "ed88d34d-0830-4a95-88fc-c373ca17eb2d",
+                  "url": "https://r2.frozi.lol/5cf7c558-c41b-4880-abe8-40b8b4aed813.mp4",
+                  "name": "Wallpaper_2.mp4",
+                  "enabled": true
+                },
+                {
+                  "id": "cc723d64-e0a3-4c90-9251-bc2c89f17339",
+                  "url": "https://r2.frozi.lol/22ea598c-b042-4402-bf77-af08830a3008.mp4",
+                  "name": "Wallpaper_3.mp4",
+                  "enabled": true
+                }
+              ],
+              "insideBanner": "https://r2.frozi.lol/ae410c26-9f9e-4739-a665-9f4ea05e93dd.gif"
+            },
+            "customize": {
+              "tags": [],
+              "work": "Graphic Designer",
+              "theme": "floating",
+              "bgColor": "#10101e",
+              "effects": {
+                "bg": "none",
+                "glow": {
+                  "links": true,
+                  "badges": true,
+                  "username": true,
+                  "description": true
+                },
+                "overlay": "none",
+                "username": "typewriter",
+                "description": "none",
+                "glowIntensity": 25
+              },
+              "location": "Canada",
+              "linkStyle": "icons",
+              "infoFields": {
+                "uid": {
+                  "glow": true,
+                  "clean": false,
+                  "enabled": true,
+                  "placement": "username"
+                },
+                "work": {
+                  "glow": true,
+                  "clean": false,
+                  "enabled": true,
+                  "placement": "center"
+                },
+                "views": {
+                  "glow": true,
+                  "clean": false,
+                  "enabled": true,
+                  "placement": "center",
+                  "viewsFormat": "full"
+                },
+                "location": {
+                  "glow": true,
+                  "clean": false,
+                  "enabled": true,
+                  "placement": "center"
+                },
+                "followers": {
+                  "glow": true,
+                  "clean": false,
+                  "enabled": false,
+                  "placement": "center"
+                },
+                "joinedDate": {
+                  "glow": true,
+                  "clean": false,
+                  "enabled": false,
+                  "placement": "none"
+                }
+              },
+              "cardEnabled": true,
+              "description": "",
+              "cardSettings": {
+                "bgBlur": 20,
+                "bgColor": "#262626",
+                "flexGap": 16,
+                "padding": 40,
+                "tiltZoom": true,
+                "bgOpacity": 40,
+                "tiltPower": 40,
+                "borderColor": "rgba(255, 255, 255, 0.05)",
+                "borderWidth": 2,
+                "fadeInDelay": 15000,
+                "shadowColor": "#000000",
+                "shadowPower": 35,
+                "borderRadius": 14,
+                "profileWidth": 500,
+                "tiltInverted": true,
+                "neonBorderColor": "#a2e6ff",
+                "animatedNeonBorder": true,
+                "borderColorOpacity": 5,
+                "separatedTiltCards": false
+              },
+              "tabsSettings": {
+                "enabled": true,
+                "placement": "top",
+                "enabledTabs": [
+                  "about",
+                  "gallery",
+                  "comments"
+                ]
+              },
+              "linksSettings": {
+                "inside": false,
+                "columns": 1,
+                "iconsSettings": {
+                  "size": 40,
+                  "align": "center",
+                  "iconColor": "#ffffff",
+                  "customColorsEnabled": true
+                }
+              },
+              "avatarSettings": {
+                "size": 150,
+                "border": false,
+                "radius": 100
+              },
+              "badgesSettings": {
+                "size": 20,
+                "style": "card",
+                "bgOpacity": 50,
+                "monohrome": false,
+                "styleCustomBadges": false
+              },
+              "cursorSettings": {
+                "effect": "bubble",
+                "hotspotX": 1,
+                "hotspotY": 1
+              },
+              "layoutSettings": {
+                "profileAlign": "center",
+                "badgesNextToName": true,
+                "profileWidthMode": "fixed",
+                "descriptionUnderName": true
+              },
+              "welcomeMessage": "click to enter",
+              "portfolioSkills": [
+                "photoshop",
+                "unrealengine",
+                "davinciresolve"
+              ],
+              "profileSections": [],
+              "widgetsSettings": {
+                "columns": 1
+              },
+              "metadataSettings": {
+                "title": "@Fragrant's Bio-page",
+                "faviconSync": false,
+                "titleEffect": "typewriter",
+                "backgroundSync": false
+              },
+              "usernameSettings": {
+                "fontSize": 35
+              },
+              "backgroundSettings": {
+                "loop": true,
+                "shuffle": false,
+                "imageDurationSeconds": 20
+              },
+              "profileEnterEffect": "zoom-out",
+              "textColorsSettings": {
+                "mainTextColor": "#ffffff",
+                "secondTextColor": "#a8a29e"
+              },
+              "useBackgroundAudio": true,
+              "descriptionSettings": {
+                "fontSize": 20,
+                "horizontalLines": false
+              },
+              "discordAvatarEnabled": true,
+              "volumeControlEnabled": true,
+              "volumeControlSettings": {
+                "placement": "top-left",
+                "onlyButton": true,
+                "defaultVolume": 30
+              },
+              "welcomeScreenSettings": {
+                "bgBlur": 60,
+                "bgColor": "#000000",
+                "fontSize": 50,
+                "bgOpacity": 80,
+                "fontColor": "#ffffff",
+                "titleEffect": "neon",
+                "titleImageLeft": "",
+                "titleImageSize": 60,
+                "horizontalLines": false,
+                "titleImageRight": "",
+                "titleImagesSync": true,
+                "titleImageSynced": "https://r2.frozi.lol/5e43ba72-3c94-4f5d-b43c-8c2bfe26b9f2.gif"
+              },
+              "customTextColorsEnabled": false,
+              "discordDecorationEnabled": true
+            },
+            "discordID": "662490684288401409",
+            "discordClean": {
+              "avatarURL": "https://cdn.discordapp.com/avatars/662490684288401409/a_e18337c4c70748ab900b2a589c5afd91.gif?size=512",
+              "avatarDecorationURL": "https://cdn.discordapp.com/avatar-decoration-presets/a_8cda4fb38c18ce7a3ccc513030148e24.png"
+            },
+            "banned": false,
+            "viewsCount": 1550,
+            "followersCount": 0,
+            "createdAt": "2026-08-08T20:43:18.778969+00:00"
+          },
+          "likesCount": 0
+        }
+      ],
+      "profile": {
+        "id": 3266,
+        "username": "17",
+        "displayName": "",
+        "badges": [],
+        "assets": {
+          "pfp": "https://r2.frozi.lol/82e64844-9c92-48d5-a322-f9ba89d74c72.jpeg",
+          "cursor": "https://r2.frozi.lol/4b3ac7de-850c-4a0d-8897-354afab823a2.png",
+          "backgrounds": [
+            {
+              "id": "ceb67b93-fc76-4cc9-8c92-00098889c3bb",
+              "url": "https://r2.frozi.lol/cd546537-761a-4cd3-8ef2-53e28f8911cc.mp4",
+              "name": "Cars (1).mp4",
+              "enabled": true
+            }
+          ]
+        },
+        "customize": {
+          "work": "",
+          "theme": "clear",
+          "audios": [
+            {
+              "id": "866de09e-293e-4e0c-8ce9-c4feeadfbed3",
+              "name": "Cars",
+              "audio": "https://r2.frozi.lol/4c989f02-7e9e-4c8e-beba-34b21a22d3bc.mp3",
+              "enabled": true
+            }
+          ],
+          "bgColor": "#000000",
+          "effects": {
+            "bg": "none",
+            "glow": {
+              "links": false,
+              "badges": false,
+              "username": false,
+              "description": false
+            },
+            "overlay": "none",
+            "username": "none",
+            "description": "none",
+            "glowIntensity": 100
+          },
+          "location": "North",
+          "linkStyle": "icons",
+          "infoFields": {
+            "uid": {
+              "glow": true,
+              "clean": false,
+              "enabled": true,
+              "placement": "username"
+            },
+            "work": {
+              "glow": true,
+              "clean": false,
+              "enabled": true,
+              "placement": "center"
+            },
+            "views": {
+              "glow": true,
+              "clean": false,
+              "enabled": true,
+              "placement": "center",
+              "viewsFormat": "full"
+            },
+            "location": {
+              "glow": true,
+              "clean": false,
+              "enabled": true,
+              "placement": "center"
+            },
+            "followers": {
+              "glow": true,
+              "clean": false,
+              "enabled": true,
+              "placement": "center"
+            },
+            "joinedDate": {
+              "glow": true,
+              "clean": false,
+              "enabled": true,
+              "placement": "center"
+            }
+          },
+          "cardEnabled": false,
+          "description": "Guns > Frozi",
+          "cardSettings": {
+            "bgBlur": 20,
+            "bgColor": "#262626",
+            "flexGap": 16,
+            "padding": 40,
+            "tiltZoom": false,
+            "bgOpacity": 40,
+            "tiltPower": 50,
+            "borderColor": "rgba(255, 255, 255, 0.05)",
+            "borderWidth": 2,
+            "fadeInDelay": 0,
+            "shadowColor": "#000000",
+            "shadowPower": 0,
+            "borderRadius": 16,
+            "profileWidth": 500,
+            "tiltInverted": false,
+            "neonBorderColor": "#ff59e8",
+            "animatedNeonBorder": false,
+            "borderColorOpacity": 5
+          },
+          "tabsSettings": {
+            "enabled": false,
+            "placement": "top"
+          },
+          "linksSettings": {
+            "inside": false,
+            "columns": 1,
+            "iconsSettings": {
+              "size": 30,
+              "align": "center",
+              "iconColor": "#ffffff",
+              "customColorsEnabled": false
+            }
+          },
+          "avatarSettings": {
+            "size": 140,
+            "border": false,
+            "radius": 100
+          },
+          "badgesSettings": {
+            "size": 20,
+            "style": "card",
+            "bgOpacity": 50,
+            "monohrome": false,
+            "styleCustomBadges": false
+          },
+          "cursorSettings": {
+            "effect": ""
+          },
+          "joinedDateType": "relative",
+          "layoutSettings": {
+            "profileAlign": "center",
+            "badgesNextToName": false,
+            "profileWidthMode": "max",
+            "descriptionUnderName": false
+          },
+          "welcomeMessage": "Temu Guns.lol fr",
+          "profileSections": [],
+          "widgetsSettings": {
+            "columns": 1,
+            "hideWatermark": false
+          },
+          "usernameSettings": {
+            "fontSize": 35
+          },
+          "backgroundSettings": {
+            "loop": true,
+            "shuffle": false,
+            "imageDurationSeconds": 12
+          },
+          "profileEnterEffect": "none",
+          "textColorsSettings": {
+            "mainTextColor": "#ffffff",
+            "secondTextColor": "#a8a29e"
+          },
+          "useBackgroundAudio": false,
+          "descriptionSettings": {
+            "fontSize": 20,
+            "horizontalLines": false
+          },
+          "discordAvatarEnabled": false,
+          "volumeControlEnabled": true,
+          "volumeControlSettings": {
+            "placement": "top-left",
+            "onlyButton": false,
+            "defaultVolume": 50
+          },
+          "welcomeScreenSettings": {
+            "bgBlur": 60,
+            "bgColor": "#000000",
+            "fontSize": 35,
+            "bgOpacity": 80,
+            "fontColor": "#ffffff",
+            "titleEffect": "none",
+            "titleImageLeft": "",
+            "titleImageSize": 80,
+            "horizontalLines": false,
+            "titleImageRight": "",
+            "titleImagesSync": false,
+            "titleImageSynced": ""
+          },
+          "customTextColorsEnabled": false,
+          "discordDecorationEnabled": false
+        },
+        "discordID": "746811595010605187",
+        "discordClean": {
+          "avatarURL": "https://cdn.discordapp.com/avatars/746811595010605187/2ce058c22738ee585a825e4051d5437b.png?size=512",
+          "avatarDecorationURL": null
+        },
+        "banned": false,
+        "viewsCount": 15,
+        "followersCount": 0,
+        "createdAt": "2026-05-02T07:08:31.480693+00:00"
+      },
+      "likesCount": 1
+    },
+    {
+      "id": "ef3a855d-7567-4e7e-a6eb-0b7c25f56354",
+      "profileId": 4403,
+      "authorId": 3266,
+      "text": "Fire",
+      "commentedAt": "2026-08-20T00:06:12.362001+00:00",
+      "likes": [
+        4403
+      ],
+      "isPinned": false,
+      "parentId": null,
+      "replies": [],
+      "profile": "$11:props:children:0:props:children:props:pagesContent:initialComments:0:profile",
+      "likesCount": 1
+    },
+    {
+      "id": "3b6ab4c4-b773-4a8f-8cf9-e95fd0879c0f",
+      "profileId": 4403,
+      "authorId": 4424,
+      "text": "CAS Queen",
+      "commentedAt": "2026-08-10T00:41:06.078953+00:00",
+      "likes": [
+        4403
+      ],
+      "isPinned": false,
+      "parentId": null,
+      "replies": [],
+      "profile": {
+        "id": 4424,
+        "username": "fuuai",
+        "displayName": "",
+        "badges": [],
+        "assets": {
+          "pfp": "https://ayhadv00jl.ufs.sh/f/bW87CNuJgf8zNLHrjp9cVhv9QFmjfxIOpHwUkX0lYJZzi5oW"
+        },
+        "customize": {
+          "work": "",
+          "theme": "clear",
+          "bgColor": "#0f0f12",
+          "effects": {
+            "bg": "none",
+            "glow": {
+              "links": false,
+              "badges": false,
+              "username": false,
+              "description": false
+            },
+            "overlay": "none",
+            "username": "none",
+            "description": "none",
+            "glowIntensity": 100
+          },
+          "location": "",
+          "linkStyle": "icons",
+          "infoFields": {
+            "uid": {
+              "glow": true,
+              "clean": false,
+              "enabled": true,
+              "placement": "username"
+            },
+            "work": {
+              "glow": true,
+              "clean": false,
+              "enabled": true,
+              "placement": "center"
+            },
+            "views": {
+              "glow": true,
+              "clean": false,
+              "enabled": true,
+              "placement": "center",
+              "viewsFormat": "full"
+            },
+            "location": {
+              "glow": true,
+              "clean": false,
+              "enabled": true,
+              "placement": "center"
+            },
+            "followers": {
+              "glow": true,
+              "clean": false,
+              "enabled": true,
+              "placement": "center"
+            },
+            "joinedDate": {
+              "glow": true,
+              "clean": false,
+              "enabled": true,
+              "placement": "center"
+            }
+          },
+          "cardEnabled": false,
+          "description": "",
+          "cardSettings": {
+            "bgBlur": 20,
+            "bgColor": "#262626",
+            "flexGap": 16,
+            "padding": 40,
+            "tiltZoom": false,
+            "bgOpacity": 40,
+            "tiltPower": 50,
+            "borderColor": "rgba(255, 255, 255, 0.05)",
+            "borderWidth": 2,
+            "fadeInDelay": 0,
+            "shadowColor": "#000000",
+            "shadowPower": 0,
+            "borderRadius": 16,
+            "profileWidth": 500,
+            "tiltInverted": false,
+            "neonBorderColor": "#ff59e8",
+            "animatedNeonBorder": false,
+            "borderColorOpacity": 5,
+            "separatedTiltCards": false
+          },
+          "tabsSettings": {
+            "enabled": false,
+            "placement": "top"
+          },
+          "linksSettings": {
+            "inside": false,
+            "columns": 1,
+            "iconsSettings": {
+              "size": 30,
+              "align": "center",
+              "iconColor": "#ffffff",
+              "customColorsEnabled": false
+            }
+          },
+          "avatarSettings": {
+            "size": 140,
+            "border": false,
+            "radius": 100
+          },
+          "badgesSettings": {
+            "size": 20,
+            "style": "card",
+            "bgOpacity": 50,
+            "monohrome": false,
+            "styleCustomBadges": false
+          },
+          "cursorSettings": {
+            "effect": ""
+          },
+          "layoutSettings": {
+            "profileAlign": "center",
+            "badgesNextToName": false,
+            "profileWidthMode": "max",
+            "descriptionUnderName": false
+          },
+          "welcomeMessage": "",
+          "profileSections": [],
+          "widgetsSettings": {
+            "columns": 1,
+            "hideWatermark": false
+          },
+          "usernameSettings": {
+            "fontSize": 35
+          },
+          "backgroundSettings": {
+            "loop": true,
+            "shuffle": false,
+            "imageDurationSeconds": 10
+          },
+          "profileEnterEffect": "none",
+          "textColorsSettings": {
+            "mainTextColor": "#ffffff",
+            "secondTextColor": "#a8a29e"
+          },
+          "useBackgroundAudio": false,
+          "descriptionSettings": {
+            "fontSize": 20,
+            "horizontalLines": false
+          },
+          "discordAvatarEnabled": false,
+          "volumeControlEnabled": false,
+          "volumeControlSettings": {
+            "placement": "top-left",
+            "onlyButton": false,
+            "defaultVolume": 50
+          },
+          "welcomeScreenSettings": {
+            "bgBlur": 60,
+            "bgColor": "#000000",
+            "fontSize": 35,
+            "bgOpacity": 80,
+            "fontColor": "#ffffff",
+            "titleEffect": "none",
+            "titleImageLeft": "",
+            "titleImageSize": 80,
+            "horizontalLines": false,
+            "titleImageRight": "",
+            "titleImagesSync": false,
+            "titleImageSynced": ""
+          },
+          "customTextColorsEnabled": false,
+          "discordDecorationEnabled": false
+        },
+        "discordID": null,
+        "discordClean": {},
+        "banned": false,
+        "viewsCount": 3,
+        "followersCount": 0,
+        "createdAt": "2026-08-10T00:40:12.989115+00:00"
+      },
+      "likesCount": 1
+    }
+  ]
+}

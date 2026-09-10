@@ -1,0 +1,40 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isValidId(id) {
+      return id is string && id.size() > 0 && id.size() <= 128;
+    }
+
+    match /siteStats/{statId} {
+      allow read: if true;
+      allow create: if isValidId(statId)
+        && request.resource.data.views is number
+        && request.resource.data.views >= 0;
+      allow update: if isValidId(statId)
+        && request.resource.data.views is number
+        && request.resource.data.views >= resource.data.views
+        && request.resource.data.views <= resource.data.views + 10;
+      allow delete: if false;
+    }
+
+    match /analytics/{statId} {
+      allow read: if true;
+      allow create, update: if isValidId(statId)
+        && request.resource.data.views is number
+        && request.resource.data.clicks is number;
+      allow delete: if false;
+    }
+
+    match /comments/{commentId} {
+      allow read: if true;
+      allow create: if isValidId(commentId)
+        && (request.resource.data.authorName is string || request.resource.data.name is string)
+        && (request.resource.data.text is string || request.resource.data.comment is string);
+      allow update: if isValidId(commentId)
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['likes', 'replies']);
+      allow delete: if false;
+    }
+  }
+}
+

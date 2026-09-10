@@ -1,0 +1,169 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    cursor: url('/assets/images/cursor.gif') 1 1, auto !important;
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: #10101e;
+    color: #ffffff;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@property --card-animated-border-angle {
+  syntax: "<angle>";
+  inherits: true;
+  initial-value: 0deg;
+}
+
+@keyframes border-rotate {
+  from {
+    --card-animated-border-angle: 0deg;
+  }
+  to {
+    --card-animated-border-angle: 360deg;
+  }
+}
+
+@keyframes profileZoomOut {
+  0% {
+    opacity: 0;
+    transform: scale(1.18);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes floatSlow {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    opacity: 0.8;
+    filter: drop-shadow(0 0 12px rgba(162, 230, 255, 0.45));
+  }
+  50% {
+    opacity: 1;
+    filter: drop-shadow(0 0 24px rgba(162, 230, 255, 0.8));
+  }
+}
+
+.neon-text {
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.9), 0 0 16px rgba(162, 230, 255, 0.7), 0 0 28px rgba(162, 230, 255, 0.4);
+}
+
+.neon-text-intense {
+  text-shadow: 0 0 5px #a2e6ff, 0 0 15px #a2e6ff, 0 0 30px #38bdf8;
+}
+
+.neon-border-glow {
+  box-shadow: 0 0 15px rgba(162, 230, 255, 0.25), inset 0 0 15px rgba(162, 230, 255, 0.1);
+}
+
+/* Frozi's Card Animated Border */
+.card-gradient-border {
+  z-index: 0;
+  position: relative;
+}
+
+.card-gradient-border::before {
+  content: "";
+  position: absolute;
+  inset: calc(var(--card-animated-border-width, 2px) * -1);
+  border-radius: inherit;
+  pointer-events: none;
+  z-index: 1;
+  background: conic-gradient(
+    from var(--card-animated-border-angle, 0deg),
+    var(--card-animated-default-border-color, rgba(255, 255, 255, 0.05)) 75%,
+    var(--card-animated-border-color, #a2e6ff) 85%,
+    var(--card-animated-border-color, #a2e6ff) 90%,
+    var(--card-animated-border-color, #a2e6ff) 95%,
+    var(--card-animated-default-border-color, rgba(255, 255, 255, 0.05))
+  );
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  padding: var(--card-animated-border-width, 2px);
+  animation: 7s linear infinite border-rotate;
+}
+
+/* Custom glassmorphism scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(16, 16, 30, 0.4);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(162, 230, 255, 0.35);
+}
+
+/* Anime Cyber Navigation Scroller */
+.anime-nav-scroller::-webkit-scrollbar {
+  height: 3px;
+}
+.anime-nav-scroller::-webkit-scrollbar-track {
+  background: rgba(10, 10, 22, 0.6);
+  border-radius: 9999px;
+}
+.anime-nav-scroller::-webkit-scrollbar-thumb {
+  background: linear-gradient(90deg, #38bdf8, #818cf8, #f472b6);
+  border-radius: 9999px;
+  box-shadow: 0 0 10px rgba(56, 189, 248, 0.8);
+}
+.anime-nav-scroller::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(90deg, #0ea5e9, #a855f7, #ec4899);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Hardware Acceleration Class */
+.gpu-layer {
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+/* Performance Mode Low-End GPU Overrides */
+[data-perf-tier="performance"] .card-gradient-border::before {
+  animation: none !important;
+  background: rgba(162, 230, 255, 0.25) !important;
+}
+
+[data-perf-tier="performance"] .neon-text {
+  text-shadow: 0 0 6px rgba(162, 230, 255, 0.6) !important;
+}
+
+[data-perf-tier="performance"] .neon-text-intense {
+  text-shadow: 0 0 8px #38bdf8 !important;
+}
+
+

@@ -1,0 +1,57 @@
+{
+  "entities": {
+    "SiteStats": {
+      "title": "SiteStats",
+      "description": "Global real-time website view counter and stats",
+      "type": "object",
+      "properties": {
+        "views": { "type": "number", "description": "Total real page views" },
+        "lastUpdated": { "type": "string", "description": "Timestamp of last view increment" }
+      },
+      "required": ["views"]
+    },
+    "AnalyticsStats": {
+      "title": "AnalyticsStats",
+      "description": "Global statistics tracking real views and clicks",
+      "type": "object",
+      "properties": {
+        "views": { "type": "number", "description": "Total real page views" },
+        "clicks": { "type": "number", "description": "Total real interaction clicks" },
+        "lastUpdated": { "type": "string", "description": "Timestamp of last interaction" }
+      },
+      "required": ["views", "clicks"]
+    },
+    "Comment": {
+      "title": "Comment",
+      "description": "Portfolio visitor comments",
+      "type": "object",
+      "properties": {
+        "name": { "type": "string", "description": "Display name of comment author" },
+        "authorName": { "type": "string", "description": "Display name fallback" },
+        "comment": { "type": "string", "description": "Comment message body" },
+        "text": { "type": "string", "description": "Comment message body fallback" },
+        "createdAt": { "type": "string", "description": "ISO timestamp" },
+        "userId": { "type": "string", "description": "Anonymous or authenticated visitor ID" },
+        "avatar": { "type": "string", "description": "Avatar image URL" },
+        "authorAvatar": { "type": "string", "description": "Avatar image URL fallback" },
+        "likes": { "type": "number", "description": "Like count" },
+        "isPinned": { "type": "boolean", "description": "Whether pinned by owner" }
+      },
+      "required": ["createdAt"]
+    }
+  },
+  "firestore": {
+    "/siteStats/{statId}": {
+      "schema": "SiteStats",
+      "description": "Global real-time site stats for views counter"
+    },
+    "/analytics/{statId}": {
+      "schema": "AnalyticsStats",
+      "description": "Global real-time site stats for views and clicks"
+    },
+    "/comments/{commentId}": {
+      "schema": "Comment",
+      "description": "Visitor comments collection"
+    }
+  }
+}

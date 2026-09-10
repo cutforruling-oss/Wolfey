@@ -1,0 +1,6 @@
+{
+  "name": "Wolfey",
+  "description": "Wolfey — Creative Portfolio. Game Designer, Coder, Music Maker, Artist, Graphic Designer, Video Editor, 3D Designer & Animation Creator from India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
